@@ -8,7 +8,7 @@ id: uuid
 owner_id: uuid
 title: string
 decription: string
-picture_url: string
+image: string
 number_of_tokens: number
 
 --RAFFLE-PARTICIPANTS--
